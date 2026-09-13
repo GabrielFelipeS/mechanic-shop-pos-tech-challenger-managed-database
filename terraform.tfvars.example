@@ -1,4 +1,4 @@
-region             = "us-east-1"
+region             = "sa-east-1"
 vpc_id             = "vpc-REPLACE_ME"
 vpc_cidr           = "10.0.0.0/16"
 private_subnet_ids = ["subnet-REPLACE_ME_1", "subnet-REPLACE_ME_2", "subnet-REPLACE_ME_3"]

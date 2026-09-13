@@ -1,7 +1,7 @@
 variable "region" {
   description = "AWS region where the shared Kubernetes VPC exists."
   type        = string
-  default     = "us-east-1"
+  default     = "sa-east-1"
 }
 
 variable "project_name" {
